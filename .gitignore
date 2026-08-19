@@ -1,2 +1,5 @@
 *.log
 node_modules/
+
+# hello statment to user
+hellostatement.py
